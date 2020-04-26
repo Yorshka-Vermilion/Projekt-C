@@ -1,0 +1,12 @@
+var searchData=
+[
+  ['zakolejkujstrzaly',['zakolejkujStrzaly',['../biblioteki_8h.html#ae81a797663f6cb750820a729c022b8e3',1,'zakolejkujStrzaly(struct pointersShipShot *strzaly, struct cannon *dzialo, int x, int y):&#160;statek.c'],['../statek_8c.html#ae81a797663f6cb750820a729c022b8e3',1,'zakolejkujStrzaly(struct pointersShipShot *strzaly, struct cannon *dzialo, int x, int y):&#160;statek.c']]],
+  ['zakolejkujstrzalydrona',['zakolejkujStrzalyDrona',['../biblioteki_8h.html#a26335bcbfa0dbe39c797ddd47f38bd68',1,'zakolejkujStrzalyDrona(struct pointersShipShot *strzaly, struct drone *dron):&#160;dodatki.c'],['../dodatki_8c.html#a26335bcbfa0dbe39c797ddd47f38bd68',1,'zakolejkujStrzalyDrona(struct pointersShipShot *strzaly, struct drone *dron):&#160;dodatki.c']]],
+  ['zakolejkujstrzalykosmitow',['zakolejkujStrzalyKosmitow',['../biblioteki_8h.html#a7061f83b15c6f3058b0250357c19e20a',1,'zakolejkujStrzalyKosmitow(struct pointersAlienShot *strzaly, struct pointersAlien kosmici, struct settingsAlien ustawieniaKosmitow):&#160;kosmici.c'],['../kosmici_8c.html#a7061f83b15c6f3058b0250357c19e20a',1,'zakolejkujStrzalyKosmitow(struct pointersAlienShot *strzaly, struct pointersAlien kosmici, struct settingsAlien ustawieniaKosmitow):&#160;kosmici.c']]],
+  ['zaladujanimacjespawnukosmity',['zaladujAnimacjeSpawnuKosmity',['../biblioteki_8h.html#a19e9cdc46726360408f402c4ab8520dc',1,'zaladujAnimacjeSpawnuKosmity(ALLEGRO_BITMAP **spawnKosmity):&#160;kosmici.c'],['../kosmici_8c.html#a19e9cdc46726360408f402c4ab8520dc',1,'zaladujAnimacjeSpawnuKosmity(ALLEGRO_BITMAP **spawnKosmity):&#160;kosmici.c']]],
+  ['zaladujmapy',['zaladujMapy',['../biblioteki_8h.html#a161da6f63272283e923e5f6ec0400e12',1,'zaladujMapy(struct level *poziom):&#160;poziomy.c'],['../poziomy_8c.html#a161da6f63272283e923e5f6ec0400e12',1,'zaladujMapy(struct level *poziom):&#160;poziomy.c']]],
+  ['zamalo',['zaMalo',['../structshop.html#a959bd5a1abd61414ec522ad89766233f',1,'shop']]],
+  ['zapiszwynik',['zapiszWynik',['../biblioteki_8h.html#ab65ba5a1e53ba874f1cd411167b3a107',1,'zapiszWynik(struct ship statek, struct level poziom):&#160;obslugaPlikow.c'],['../obsluga_plikow_8c.html#ab65ba5a1e53ba874f1cd411167b3a107',1,'zapiszWynik(struct ship statek, struct level poziom):&#160;obslugaPlikow.c']]],
+  ['zwrockoszt',['zwrocKoszt',['../sklep_8c.html#a05285629ff4e54cede796b0644a1e19e',1,'sklep.c']]],
+  ['zycia',['zycia',['../structship.html#a68fdf3a1f6b2498cd6c73f9c2fb59446',1,'ship']]]
+];

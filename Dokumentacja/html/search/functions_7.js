@@ -1,0 +1,9 @@
+var searchData=
+[
+  ['wczytajwyniki',['wczytajWyniki',['../biblioteki_8h.html#a09c5c623fb0045e9d503e59797a53679',1,'wczytajWyniki(struct score *wyniki):&#160;obslugaPlikow.c'],['../obsluga_plikow_8c.html#a09c5c623fb0045e9d503e59797a53679',1,'wczytajWyniki(struct score *wyniki):&#160;obslugaPlikow.c']]],
+  ['wyboropcji',['wyborOpcji',['../biblioteki_8h.html#a1437c66ffb4c206ea19ee4f94e85e608',1,'wyborOpcji(int opcja, int *exit):&#160;menu.c'],['../menu_8c.html#a1437c66ffb4c206ea19ee4f94e85e608',1,'wyborOpcji(int opcja, int *exit):&#160;menu.c']]],
+  ['wyczyscpamiec',['wyczyscPamiec',['../biblioteki_8h.html#abaaadd9ea7d2304c4fe06eb17c52b68b',1,'wyczyscPamiec(struct pointersAlien *kosmici, struct pointersAlienShot *strzalyKosmitow, struct pointersShipShot *strzaly):&#160;funkcjeCzyszczace.c'],['../funkcje_czyszczace_8c.html#abaaadd9ea7d2304c4fe06eb17c52b68b',1,'wyczyscPamiec(struct pointersAlien *kosmici, struct pointersAlienShot *strzalyKosmitow, struct pointersShipShot *strzaly):&#160;funkcjeCzyszczace.c']]],
+  ['wyczyscstatek',['wyczyscStatek',['../biblioteki_8h.html#a5cf844d55b1b185b0497431e32f65058',1,'wyczyscStatek(struct ship *statek):&#160;funkcjeCzyszczace.c'],['../funkcje_czyszczace_8c.html#a5cf844d55b1b185b0497431e32f65058',1,'wyczyscStatek(struct ship *statek):&#160;funkcjeCzyszczace.c']]],
+  ['wystrzelzdzial',['wystrzelZDzial',['../biblioteki_8h.html#ad6f6b5015d5bb109a4ce48b425d5dea2',1,'wystrzelZDzial(struct pointersShipShot *strzaly, struct ship *statek):&#160;statek.c'],['../statek_8c.html#ad6f6b5015d5bb109a4ce48b425d5dea2',1,'wystrzelZDzial(struct pointersShipShot *strzaly, struct ship *statek):&#160;statek.c']]],
+  ['wyswietlwyniki',['wyswietlWyniki',['../biblioteki_8h.html#a59c7a96ff6f34822f9df761b581d3432',1,'wyswietlWyniki(struct score wyniki):&#160;obslugaPlikow.c'],['../obsluga_plikow_8c.html#a59c7a96ff6f34822f9df761b581d3432',1,'wyswietlWyniki(struct score wyniki):&#160;obslugaPlikow.c']]]
+];
